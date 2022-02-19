@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
     const String name = "Codeup";
     return Scaffold(
       appBar: AppBar(
-        title: const Text('My App'),
+        title: const Text('Catalogue App'),
         centerTitle: true,
       ),
       body: const Center(
